@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Camilla Borchhardt — pesquisa, código e criatividade</title><desc id="desc">Capa roxa e rosa com ilustração de uma pesquisadora loira no computador, livros e uma planta.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#241239"/><stop offset="1" stop-color="#4B2365"/></linearGradient><linearGradient id="pink"><stop stop-color="#F7A5D1"/><stop offset="1" stop-color="#C9ABFF"/></linearGradient></defs>
+<rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+<circle cx="1130" cy="35" r="210" fill="#8651A5" opacity=".19"/><circle cx="1010" cy="390" r="215" fill="#ED8FC0" opacity=".08"/>
+<g fill="#F7A5D1"><path d="M75 49l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/><path d="M691 77l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/><circle cx="665" cy="325" r="3"/><circle cx="1127" cy="115" r="3"/></g>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<text x="72" y="106" fill="#E8B8E9" font-size="14" letter-spacing="4">PESQUISA · CÓDIGO · CRIATIVIDADE</text>
+<text x="68" y="177" fill="#FFF4FC" font-size="51" font-weight="700">Camilla</text><text x="68" y="235" fill="url(#pink)" font-size="51" font-weight="700">Borchhardt</text>
+<text x="72" y="285" fill="#ECDDF5" font-size="18">Inteligência artificial, educação e cibersegurança.</text>
+<text x="72" y="329" fill="#CFAFDF" font-size="16">Curiosidade para aprender. Energia para construir.</text>
+<rect x="72" y="354" width="198" height="28" rx="14" fill="#F7A5D1" opacity=".13"/><text x="88" y="373" fill="#F9C8E4" font-size="12" letter-spacing="1">FEITO COM CIÊNCIA E CAFÉ</text>
+</g>
+<g stroke-linecap="round" stroke-linejoin="round">
+<rect x="790" y="62" width="250" height="226" rx="110" fill="#B995D9" opacity=".12"/>
+<g fill="none" stroke="#C9ABFF" stroke-width="2" opacity=".7"><path d="M777 118l-14 12 14 12m26-24 14 12-14 12m-9-28-8 32"/><path d="M1074 169l13-7 13 7v17l-13 10-13-10z"/></g>
+<path d="M850 193q-13-97 57-97 70 0 65 101l-14 54H861z" fill="#D4A05E"/>
+<path d="M868 143q2-39 40-39t41 39v41q-4 40-39 40-36 0-42-40z" fill="#F3C3AB"/>
+<path d="M861 158q-3-61 47-61 44 0 48 59-26-5-42-32-12 25-53 34" fill="#E9C07B"/>
+<path d="M897 211v20h27v-20" fill="#EAB39A"/>
+<path d="M836 311v-46q0-40 58-40 16 17 33 0 57 0 57 40v46" fill="#BA83D2"/>
+<path d="M843 268l-15 49m147-49 14 49" stroke="#F3C3AB" stroke-width="19"/>
+<path d="M896 183q13 10 26 0" fill="none" stroke="#B86C70" stroke-width="2.5"/>
+<g fill="none" stroke="#52334D" stroke-width="2"><rect x="873" y="158" width="28" height="20" rx="8"/><rect x="914" y="158" width="28" height="20" rx="8"/><path d="M901 165h13"/></g>
+<path d="M804 256h203l-17 77H820z" fill="#ECE0F4" stroke="#C9ABFF" stroke-width="2"/><path d="M800 333h211" stroke="#F9ECFF" stroke-width="7"/>
+<path d="M897 290l-7 7 7 7m15-14 7 7-7 7" fill="none" stroke="#9C63B9" stroke-width="3"/>
+<path d="M750 341h357" stroke="#D0A0CA" stroke-width="7"/>
+<path d="M1047 312h38l-5 24h-28z" fill="#F4ACD0"/><path d="M1066 312v-61" stroke="#A3C9AF" stroke-width="3"/><path d="M1066 291q-33-5-28-29 28 0 28 29m0-17q28-3 25-26-25 1-25 26" fill="#A3C9AF"/>
+<rect x="758" y="319" width="43" height="14" rx="3" fill="#EEA8CF"/><rect x="765" y="305" width="36" height="13" rx="3" fill="#C9ABFF"/>
+</g></svg>
