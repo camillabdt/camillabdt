@@ -22,7 +22,7 @@ Sou mestranda em **Ciência da Computação na UFU**, graduanda em **Engenharia 
 
 Minha pesquisa passa por **inteligência artificial na educação** e **segurança de sistemas com IA**. Também trabalho com análise de dados e painéis para transformar perguntas em evidências.
 
-Sou mãe de três, apaixonada por aprender e movida pela vontade de compartilhar o que descubro. Quero levar essa trajetória para a docência — com ciência, criatividade e os pés na prática. ☕📚
+Sou mãe de três, apaixonada por aprender e movida pela vontade de compartilhar o que descubro. Quero levar essa trajetória para a docência com ciência, criatividade e os pés na prática. 
 
 ### 🔎 O que eu investigo
 
@@ -54,6 +54,8 @@ Sou mãe de três, apaixonada por aprender e movida pela vontade de compartilhar
 ### 💌 Vamos conversar?
 
 Gosto de trocar ideias sobre pesquisa, educação, segurança e projetos que saem do papel.
+
+*Email: kamysbdt@gmail.com*
 
 **[Me encontre pelo GitHub](https://github.com/camillabdt)** · Abra uma issue em um dos meus projetos para conversar sobre o código ou a pesquisa.
 
