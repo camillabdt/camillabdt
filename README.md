@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Camilla Borchhardt — pesquisa, código e criatividade. Capa roxa e rosa com uma pesquisadora no computador." />
-</p>
+
 
 <p align="center">
   <strong>Oi, eu sou a Camilla! 💜</strong><br />
